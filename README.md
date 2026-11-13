@@ -1,42 +1,25 @@
 # Hi there, I'm Lucky 👋
 
+High-school dev in Ghaziabad, India — building AI tools for students, learning in public.
+
 Building **[Zoya](https://github.com/notebookworrk-cyber/zoya-easy-code)** — a beginner-friendly programming language and full-stack SDK for AI, automation, web, mobile, and game development.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
----
 
 ## 🚀 What I'm Building
 
-| Project | Stars | Description |
-|---------|-------|-------------|
-| [Zoya](https://github.com/notebookworrk-cyber/zoya-easy-code) | ⭐ | Zero-dependency Python SDK with 15 modules: web, desktop, AI, cloud, IDE, data science, mobile, security, DevOps, marketplace, visual builder, export, enterprise, robotics, scientific computing |
-| [Student OS](https://github.com/notebookworrk-cyber/student-os) | ⭐ 1 | Productivity suite: focus timer, tasks, AI chat, PWA |
-| [Lukylang](https://github.com/notebookworrk-cyber/luckylang) | ⭐ | Educational programming language for learning & scripting |
-| [Apple Scanner](https://github.com/notebookworrk-cyber/Apple-scanner-) | ⭐ | Apple product barcode scanner and info lookup |
-| [Habit Bloom](https://github.com/notebookworrk-cyber/habit-bloomv2) | ⭐ | Aesthetic habit tracking with dark theme and progress insights |
+| Project | What it is |
+|---------|------------|
+| [Zoya](https://github.com/notebookworrk-cyber/zoya-easy-code) | Python SDK with 15 modules: web, desktop, AI, cloud, IDE, data science, mobile, security, DevOps, marketplace, visual builder, export, enterprise, robotics, scientific computing |
+| [Student OS](https://github.com/notebookworrk-cyber/student-os) | Productivity suite (PWA): focus timer, tasks, AI chat, gamification |
+| [StudentOS Desktop](https://github.com/notebookworrk-cyber/studentos) | Desktop version: Electron + React + TypeScript — tasks, notes, study planner, focus timer, local AI |
+| [LuckyLang](https://github.com/notebookworrk-cyber/luckylang) | Educational programming language for learning & scripting |
+| [Habit Bloom](https://github.com/notebookworrk-cyber/habit-bloomv2) | Aesthetic habit tracking with dark theme and progress insights |
+| [Apple Scanner](https://github.com/notebookworrk-cyber/Apple-scanner-) | Apple product barcode scanner and info lookup |
 
----
+## 🌱 Currently
 
-## 🏆 GitHub Achievements
-
-| Achievement | Tier | Status |
-|------------|------|--------|
-| Pull Shark | Default | ✅ 3 merged PRs |
-| YOLO | Default | ✅ Merged without review |
-| Quickdraw | Default | ✅ Closed within 5 min |
-| Pair Extraordinaire | Default | ✅ Co-authored commits |
-| Starstruck | Default | 🎯 In progress |
-| Galaxy Brain | Default | 🎯 In progress |
-| Public Sponsor | Default | 🎯 Planned |
-
----
+- Actively building Zoya 4.0
+- StudentOS — keeping both the PWA and desktop versions for now
+- Learning: Python, TypeScript, React, Electron
 
 ## 📊 GitHub Stats
 
@@ -46,12 +29,4 @@ Building **[Zoya](https://github.com/notebookworrk-cyber/zoya-easy-code)** — a
 </p>
 
 ---
-
-## 📈 Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
----
-
-*Profile automatically updated — building in public, one commit at a time.*
+*Building in public, one commit at a time.*
